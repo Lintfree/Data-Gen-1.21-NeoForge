@@ -1,0 +1,4 @@
+// 1.21	2024-06-23T20:41:27.5680698	Registries
+90ee215be63a52172c623603f93e7d6d16049cc4 data/examplemod/neoforge/biome_modifier/add_example_ore.json
+3ec0720a8e71c90c006ed573984b2f9059805ba6 data/examplemod/worldgen/configured_feature/example_ore.json
+0dc33c04f42b59ea67ee52137e0be331b2d7916d data/examplemod/worldgen/placed_feature/example_ore_placed.json
